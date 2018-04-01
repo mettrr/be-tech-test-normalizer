@@ -12,7 +12,7 @@ command to install the dependencies:
 
 This test should take roughly one or two hours and should be completed using
 PHP, ideally with a test suite in place. The repository comes with PHPUnit as a
-dependency but feel free to use whatever testing framework you are comfortable
+dependency but feel free to use whichever testing framework you are comfortable
 with.
 
 Please start by creating a branch from master with the naming convention -
@@ -20,7 +20,7 @@ Please start by creating a branch from master with the naming convention -
 
 ## The Test
 
-Your goal is to create a max-min normalizer that will scale a set of value so
+Your goal is to create a max-min normalizer that will scale a set of values so
 that the maximum value becomes 1, the minimum value becomes 0 and all other
 values lie in between, for example:
 
