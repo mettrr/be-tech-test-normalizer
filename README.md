@@ -27,7 +27,7 @@ values lie in between, for example:
 | Data    | Normalized Data |
 |:-------:|:---------------:|
 |   4     |     0.22        |
-|   9     |     0.56        |
+|   9     |     0.78        |
 |   11    |      1          |
 |   2     |      0          |
 
