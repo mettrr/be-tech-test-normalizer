@@ -75,7 +75,7 @@ request to master, tagging @dbatten5 in it and followed by an email to myself
 
 If you find yourself with a bit of spare time, consider the following scenario:
 
-In the future I may wish add some more data to each person, for example their
+In the future I may wish to add some more data to each person, for example their
 age and foot size like so:
 
 ```php
