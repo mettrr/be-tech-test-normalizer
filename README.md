@@ -1,6 +1,6 @@
 # Mettrr Tech Test
 
-Welcome to the mettrr backend tech test!
+Welcome to the Mettrr backend tech test!
 
 ## Installation and setup
 
@@ -12,8 +12,8 @@ command to install the dependencies:
 
 This test should take roughly one or two hours and should be completed using
 PHP, ideally with a test suite in place. The repository comes with PHPUnit as a
-dependency but feel free to use whichever testing framework you are comfortable
-with.
+dependency and a sample test file to use but feel free to use whichever testing 
+framework you are comfortable with.
 
 Please start by creating a branch from master with the naming convention -
 "{your name}/mettrr-tech-test".
@@ -67,9 +67,9 @@ use them.
 
 If at any stage you have any questions, please contact Dom at db@mettrr.com.
 
-Once you are done, you can push your changes to your branch and create a pull
+Once you are done, push your changes to your branch and create a pull
 request to master, tagging @dbatten5 in it and followed by an email to myself
-(address above) to confirm your completion.
+(address above) to confirm your completion. Good luck!
 
 ## Bonus points
 
